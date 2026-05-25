@@ -1,0 +1,16 @@
+.button1 {
+    border-radius: 6px;
+    color: rgb(127,255,212);
+    background-color: black;
+    cursor: crosshair;
+    border: 3px solid black;
+}
+h1{
+    text-align: center;
+}
+
+.containerBigGraph{
+    size: 400px
+}
+
+
